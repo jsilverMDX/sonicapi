@@ -11,7 +11,6 @@ module SonicApi
   extend SonicApi::Analyze
   extend SonicApi::File
   extend SonicApi::Process
-  extend SonicApi::Conversion
 
   class << self
     attr_reader :access_id
