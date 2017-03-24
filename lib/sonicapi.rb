@@ -5,7 +5,7 @@ require "sonicapi/version"
 require "sonicapi/analyze"
 require "sonicapi/file"
 require "sonicapi/process"
-require "sonicapi/conversion"
+
 
 module SonicApi
   extend SonicApi::Analyze
